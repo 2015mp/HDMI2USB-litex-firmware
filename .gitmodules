@@ -31,6 +31,3 @@
 [submodule "third_party/migen"]
 	path = third_party/migen
 	url = https://github.com/m-labs/migen.git
-[submodule "Pano-Logic-Zero-Client-G2-FPGA-Demo"]
-	path = Pano-Logic-Zero-Client-G2-FPGA-Demo
-	url = https://github.com/cyrozap/Pano-Logic-Zero-Client-G2-FPGA-Demo
